@@ -11,7 +11,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/8wTPqxlnKM4',
     width: 350,
     height: 210,
-    path: '/images/237-puppy.jpg'
+    path: 'images/237-puppy.jpg'
   },
   {
     id:     433,
@@ -20,7 +20,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/aRXPJnXQ9lU',
     width: 350,
     height: 233,
-    path: '/images/433-bear.jpg'
+    path: 'images/433-bear.jpg'
   },
   {
     id:     577,
@@ -29,7 +29,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/34mvN5nt1ls',
     width: 350,
     height: 233,
-    path: '/images/577-moose.jpg'
+    path: 'images/577-moose.jpg'
   },
   {
     id:     582,
@@ -38,7 +38,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/NUMlxTPsznM',
     width: 350,
     height: 233,
-    path: '/images/582-coyote.jpg'
+    path: 'images/582-coyote.jpg'
   },
   {
     id:     593,
@@ -47,7 +47,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/OM7CvKnhjfs',
     width: 263,
     height: 350,
-    path: '/images/593-tiger.jpg'
+    path: 'images/593-tiger.jpg'
   },
   {
     id:     659,
@@ -56,7 +56,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/KGy1GFeKBu4',
     width: 350,
     height: 197,
-    path: '/images/659-husky.jpg'
+    path: 'images/659-husky.jpg'
   },
   {
     id:     718,
@@ -65,7 +65,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/mblYxasm0nk',
     width: 350,
     height: 222,
-    path: '/images/718-wolf.jpg'
+    path: 'images/718-wolf.jpg'
   },
   {
     id:     783,
@@ -74,7 +74,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/cSQw4uqF_Hc',
     width: 350,
     height: 233,
-    path: '/images/783-monkey.jpg'
+    path: 'images/783-monkey.jpg'
   },
   {
     id:     790,
@@ -83,7 +83,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/nuRYwOJryyk',
     width: 350,
     height: 233,
-    path: '/images/790-elk.jpg'
+    path: 'images/790-elk.jpg'
   },
   {
     id:     837,
@@ -92,7 +92,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/2zlxFmByClI',
     width: 350,
     height: 233,
-    path: '/images/837-bulldog.jpg'
+    path: 'images/837-bulldog.jpg'
   },
   {
     id:     1024,
@@ -101,7 +101,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/7ALI0RYyq6s',
     width: 350,
     height: 233,
-    path: '/images/1024-bird.jpg'
+    path: 'images/1024-bird.jpg'
   },
   {
     id:     1025,
@@ -110,7 +110,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/U5rMrSI7Pn4',
     width: 350,
     height: 233,
-    path: '/images/1025-pug.jpg'
+    path: 'images/1025-pug.jpg'
   },
   {
     id:     1074,
@@ -119,7 +119,7 @@ export const animals = [
     url:    'https://unsplash.com/photos/sseiVD2XsOk',
     width: 350,
     height: 233,
-    path: '/images/1074-cat.jpg'
+    path: 'images/1074-cat.jpg'
   },
   {
     id:     1084,
@@ -128,6 +128,6 @@ export const animals = [
     url:    'https://unsplash.com/photos/h13Y8vyIXNU',
     width: 350,
     height: 250,
-    path: '/images/1084-walrus.jpg'
+    path: 'images/1084-walrus.jpg'
   }
 ];

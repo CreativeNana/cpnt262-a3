@@ -1,0 +1,58 @@
+.gallery {
+  /* Layout the images responsively, centering the gallery on the page */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  /* Limit the max width of the gallery */
+  max-width: 1200px;
+  margin: auto;
+}
+
+.card {
+  margin: .8em;
+
+  /* Size the card based on the width of the images */
+  width: 350px;
+  height: 350px;
+
+  border: 1px solid lightslategray;
+  background-color: whitesmoke;
+}
+
+
+img {
+  /* Set the middle value as height after summing the height of each image */
+  height: 233px;
+
+  /* Fill the image in the card while maintaining the aspect ratio of the image */
+  min-width: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+figcaption {
+  /* Centralize Contents */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: larger;
+  font-weight: bold;
+  line-height: 2em;
+  color: darkslateblue;
+}
+
+p {
+  font-weight: bold;
+  line-height: 2em;
+}
+
+a {
+  font-size: smaller;
+  color: darkslategray;
+}

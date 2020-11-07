@@ -4,9 +4,9 @@
 ### * Author name: Nana
 
 ### * Links to:
-  + *GH repo: https://github.com/CreativeNana/cpnt262-a3*
-  + *GH Pages: https://creativenana.github.io/cpnt262-a3/public/index.html*
-  + *HEROKU App: https://nana-cpnt262-a3.herokuapp.com/*
+  + [*GH repo]https://github.com/CreativeNana/cpnt262-a3
+  + [*GH Pages]https://creativenana.github.io/cpnt262-a3/public/index.html
+  + [*HEROKU App]https://nana-cpnt262-a3.herokuapp.com/
 
 ### * Comments: 
   + Install 
@@ -28,5 +28,5 @@
   + Connect between Heroku App and GitHub Repo
    
 ### * Attributions: 
-  + acidtone: sample-code
-  + Refer to the site for Dotenv install & usage: https://www.npmjs.com/package/dotenv
+  + acidtone: [Assignment2 Starter Code]https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-2/starter
+  + [NPMJS.com: Dotenv]https://www.npmjs.com/package/dotenv

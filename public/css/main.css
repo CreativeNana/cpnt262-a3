@@ -17,7 +17,7 @@
   width: 350px;
   height: 350px;
 
-  border: 1px solid lightslategray;
+  border: 1px solid rgb(191, 199, 206);
   background-color: whitesmoke;
 }
 
@@ -41,10 +41,13 @@ figcaption {
 }
 
 h1 {
+  margin-top: .8em;
+
   font-size: larger;
   font-weight: bold;
   line-height: 2em;
   color: darkslateblue;
+
 }
 
 p {
@@ -53,6 +56,5 @@ p {
 }
 
 a {
-  font-size: smaller;
   color: darkslategray;
 }

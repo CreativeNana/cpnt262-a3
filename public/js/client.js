@@ -16,7 +16,7 @@ animals.forEach(function(animal){
     `<figure class="card">
       <img src=${animal.path} alt="${animal.title}" width="${animal.width}" height="${animal.height}" >
       <figcaption> 
-        <h1>[${animal.title}]</h1><p>${animal.credit}</p><a href="${animal.url}" alt="${animal.credit}">Original Source</a>
+        <h1>[${animal.title}]</h1><p><a href="${animal.url}" alt="${animal.credit}">${animal.credit}</a></p>
       </figcaption>
     </figure>`;
 });
